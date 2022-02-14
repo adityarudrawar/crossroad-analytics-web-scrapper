@@ -1,6 +1,6 @@
 ## Steps
 1. Go to Kaggle.com -> Profile -> Account -> Go to API Section -> Click on Create API Token.
-    -> This will download kaggle.json which will have structure: {"username":<KAGGLE USERNAME>,"key":"<KAGGLE KEY>"}
+    -> This will download kaggle.json which will have structure: {"username":<KAGGLE_USERNAME>,"key":"<KAGGLE_KEY>"}
     -> Put this kaggle.json in the folder your cloning the repo into.
 2. pip install -r requirements.txt
 3. python scrapper.py
